@@ -95,7 +95,7 @@
     *Operadores de String: Operador de concatenação e Operador de atribuição de concatenação
     *Operadores aritméticos: operações de matemática básica entre valores.
     *Operadores de comparação: compara dois valores.
-    *Operadores Incrementais/Decrementais: (aferam apenas números e strings).
+    *Operadores Incrementais/Decrementais: (afetam apenas números e strings).
 */
   $nome = "Alv" //Operador de atribuição
   $valorTotal = 0; //Atribui o valor 0
